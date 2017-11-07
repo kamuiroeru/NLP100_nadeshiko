@@ -1,0 +1,22 @@
+strは"I play soccer."
+strを表示
+strをcipher
+表示
+それをcipher
+表示
+
+*cipher(Sを)
+	listはSを文字列分解
+	retStrは文字列
+	listを反復
+		codeはASC(それ)
+		ISUPaはそれがASC(「a」) 以上
+		#ISUPaを表示
+		ISDOWNzはそれがASC(「z」) 以下
+		#AND(ISUPa, ISDOWNz)を表示
+		もし、AND(ISUPa, ISDOWNz)ならば
+			retStrにCHR(219-code)を追加
+		違えば、
+			retStrにCHR(code)を追加
+	retStrで戻る
+	

@@ -1,0 +1,31 @@
+str1は「パトカー」
+str2は「タクシー」
+arrayとは配列
+array[0]はstr1を文字列分解
+array[1]はstr2を文字列分解
+arrayを表示。
+
+arrTはarrayを転置。
+arrTを表示。
+
+ansはarrTを平坦化。
+ansを表示。
+
+
+# 2次元配列を転置して返す
+*転置(arrayを)
+	retarrayとは配列
+	inはarrayの配列要素数
+	jnはarray[0]の配列要素数
+	jで0からjn-1まで繰り返す
+		iで0からin-1まで繰り返す
+			retarray[j, i]はarray[i,j]
+	retarrayで戻る。
+
+# 二次元配列を平坦化(flatten)
+*平坦化(array2dを)
+	retarrayとは配列
+	array2dで反復
+		それで反復
+			retarrayにそれを追加
+	retarrayで戻る。

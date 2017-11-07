@@ -1,0 +1,12 @@
+strは"Hi He Lied Because Boron Could Not Oxidize Fluorine. New Nations Might Also Sign Peace Security Clause. Arthur King Can."
+dicとはハッシュ
+isOneは「1,5,6,7,8,9,15,16,19」
+strを「 」で区切るを反復
+	wordはそれ
+	checkはisOneで回数が何文字目 #存在すれば0以外が返る
+	もし、checkならば
+		keyはwordの1から 1 文字抜き出す
+	違えば、
+		keyはwordの1から 2 文字抜き出す
+	dic@keyは回数
+dicを表示

@@ -1,0 +1,7 @@
+strは"Now I need a drink, alcoholic of course, after the heavy lectures involving quantum mechanics."
+strはstrの「[,.]」を「」へ正規表現置換
+wordsはstrを「 」で区切る
+arrayとは配列
+wordsを反復
+	arrayにそれの文字数を配列追加
+arrayを「,」で配列結合して表示。

@@ -1,26 +1,8 @@
+!"05_ngram.nako"を取り込み
+
 sequenceは「I am an NLPer」
 nは2
 sequenceをnで文字ngram
 表示
 sequenceをnで単語ngram
 表示
-
-*文字ngram(Sを, Nで)
-	LはSの文字数
-	arrayとは配列
-	Iで1からL-N+1まで繰り返す
-		SのIから N 文字抜き出す
-		arrayにそれを配列追加
-	arrayで戻る
-
-*単語ngram(Sを, Nで)
-	SはSを「 」で区切る
-	LはSの配列要素数
-	arrayとは配列
-	Iで0からL-Nまで繰り返す
-		tempArrとは配列
-		Jで0からN-1まで繰り返す
-			tempArrにS[I+J]を配列追加
-		#S[I:I+N]#のIから N 文字抜き出す
-		arrayにtempArrを配列追加
-	arrayで戻る

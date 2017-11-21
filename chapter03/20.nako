@@ -1,8 +1,5 @@
-リストとはハッシュ
-「ignore\jawiki-country.json」を毎行読んで反復
-	#「{回数}」を表示。
-	対象をJSONデコード
-	jsoはそれ
-	keyはjso@"title"
-	リスト@key = jso
-リスト@"イギリス"@"title"を表示
+!"20_load.nako"を取り込み
+
+イギリスはリスト@"イギリス"@"text"
+イギリスをSJIS_UTF8変換して"UK.txt"に保存
+イギリスを表示

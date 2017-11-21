@@ -1,0 +1,8 @@
+リストとはハッシュ
+「ignore\jawiki-country.json」を毎行読んで反復
+	#「{回数}」を表示。
+	対象をJSONデコード
+	jsoはそれ
+	keyはjso@"title"
+	リスト@key = jso
+リスト@"イギリス"@"title"を表示

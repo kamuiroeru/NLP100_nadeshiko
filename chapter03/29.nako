@@ -19,3 +19,7 @@ urlは「http://ja.wikipedia.org/w/api.php?format=json&action=query&prop=imageinfo
 jsonはページをJSONデコード
 picURLはjson＠「query」＠「pages」＠「-1」＠「imageinfo」＠「url」
 picURLを表示
+
+WEB閲覧とはブラウザ
+そのレイアウトは「全体」
+そのURLはpicURL

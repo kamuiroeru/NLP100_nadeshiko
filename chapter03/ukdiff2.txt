@@ -1,0 +1,606 @@
+1c1
+< ﻿{{redirect|UK}}
+---
+> ﻿redirect|UK
+5,11c5,11
+< ﻿|公式国名 = {{lang|en|United Kingdom of Great Britain and Northern Ireland}}<ref>英語以外での正式国名:<br/>
+< ﻿*{{lang|gd|An Rioghachd Aonaichte na Breatainn Mhor agus Eirinn mu Thuath}}（スコットランド・ゲール語）<br/>
+< ﻿*{{lang|cy|Teyrnas Gyfunol Prydain Fawr a Gogledd Iwerddon}}（ウェールズ語）<br/>
+< ﻿*{{lang|ga|Riocht Aontaithe na Breataine Moire agus Tuaisceart na hEireann}}（アイルランド語）<br/>
+< ﻿*{{lang|kw|An Rywvaneth Unys a Vreten Veur hag Iwerdhon Gledh}}（コーンウォール語）<br/>
+< ﻿*{{lang|sco|Unitit Kinrick o Great Breetain an Northren Ireland}}（スコットランド語）<br/>
+< ﻿**{{lang|sco|Claught Kangrick o Docht Bratain an Norlin Airlann}}、{{lang|sco|Unitet Kangdom o Great Brittain an Norlin Airlann}}（アルスター・スコットランド語）</ref>
+---
+> ﻿|公式国名 = lang|en|United Kingdom of Great Britain and Northern Ireland<ref>英語以外での正式国名:<br/>
+> ﻿lang|gd|An Rioghachd Aonaichte na Breatainn Mhor agus Eirinn mu Thuath（スコットランド・ゲール語）<br/>
+> ﻿lang|cy|Teyrnas Gyfunol Prydain Fawr a Gogledd Iwerddon（ウェールズ語）<br/>
+> ﻿lang|ga|Riocht Aontaithe na Breataine Moire agus Tuaisceart na hEireann（アイルランド語）<br/>
+> ﻿lang|kw|An Rywvaneth Unys a Vreten Veur hag Iwerdhon Gledh（コーンウォール語）<br/>
+> ﻿lang|sco|Unitit Kinrick o Great Breetain an Northren Ireland（スコットランド語）<br/>
+> ﻿lang|sco|Claught Kangrick o Docht Bratain an Norlin Airlann、lang|sco|Unitet Kangdom o Great Brittain an Norlin Airlann（アルスター・スコットランド語）</ref>
+15c15
+< ﻿|標語 = {{lang|fr|Dieu et mon droit}}<br/>（フランス語:神と私の権利）
+---
+> ﻿|標語 = lang|fr|Dieu et mon droit<br/>（フランス語:神と私の権利）
+32c32
+< ﻿|人口値 = 63,181,775<ref>[http://esa.un.org/unpd/wpp/Excel-Data/population.htm United Nations Department of Economic and Social Affairs>Population Division>Data>Population>Total Population]</ref>
+---
+> ﻿|人口値 = 63,181,775<ref>http://esa.un.org/unpd/wpp/Excel-Data/population.htm United Nations Department of Economic and Social Affairs>Population Division>Data>Population>Total Population</ref>
+35c35
+< ﻿|GDP値元 = 1兆5478億<ref name="imf-statistics-gdp">[http://www.imf.org/external/pubs/ft/weo/2012/02/weodata/weorept.aspx?pr.x=70&pr.y=13&sy=2010&ey=2012&scsm=1&ssd=1&sort=country&ds=.&br=1&c=112&s=NGDP%2CNGDPD%2CPPPGDP%2CPPPPC&grp=0&a= IMF>Data and Statistics>World Economic Outlook Databases>By Countrise>United Kingdom]</ref>
+---
+> ﻿|GDP値元 = 1兆5478億<ref name="imf-statistics-gdp">http://www.imf.org/external/pubs/ft/weo/2012/02/weodata/weorept.aspx?pr.x=70&pr.y=13&sy=2010&ey=2012&scsm=1&ssd=1&sort=country&ds=.&br=1&c=112&s=NGDP%2CNGDPD%2CPPPGDP%2CPPPPC&grp=0&a= IMF>Data and Statistics>World Economic Outlook Databases>By Countrise>United Kingdom</ref>
+61c61
+< ﻿グレートブリテン及び北アイルランド連合王国（グレートブリテンおよびきたアイルランドれんごうおうこく、{{lang-en-short|United Kingdom of Great Britain and Northern Ireland}}）、通称イギリス/英国は、イングランド、スコットランド、ウェールズ、北アイルランドの4つのイギリスのカントリー|カントリーから構成される立憲君主制国家であり、英連邦王国（英連邦）の一国である。また、国際関係について責任を負う地域としてイギリスの王室属領|王室属領及びイギリスの海外領土#属領|海外領土があるが、これらは厳密には「連合王国」には含まれておらず、これらをも含む正式な名称は存在しない。
+---
+> ﻿グレートブリテン及び北アイルランド連合王国（グレートブリテンおよびきたアイルランドれんごうおうこく、lang-en-short|United Kingdom of Great Britain and Northern Ireland）、通称イギリス/英国は、イングランド、スコットランド、ウェールズ、北アイルランドの4つのイギリスのカントリー|カントリーから構成される立憲君主制国家であり、英連邦王国（英連邦）の一国である。また、国際関係について責任を負う地域としてイギリスの王室属領|王室属領及びイギリスの海外領土#属領|海外領土があるが、これらは厳密には「連合王国」には含まれておらず、これらをも含む正式な名称は存在しない。
+65c65
+< ﻿大航海時代を経て、世界屈指の海洋国家として成長。西ヨーロッパ|西欧列強のひとつとして世界中に植民地を拡大し、超大国として栄えイギリス帝国|大英帝国と呼んだ。<!--第一次世界大戦以降の勢力均衡中心の時代にあっては名誉あるバランサーを標榜し、自国と自国の交易上、友好関係にある国々、地域、植民地の経済と安全保障の安定化に向けた世界戦略を展開したことで、-->19世紀には世界の過半を影響下におき、パクス・ブリタニカ（イギリスによる平和）と呼ばれる比較的平和な時代をもたらしたが、19世紀終盤にはアメリカに経済規模で抜かれ、第二次世界大戦を機に植民地の大部分を失い衰退し、現在に至る。
+---
+> ﻿大航海時代を経て、世界屈指の海洋国家として成長。西ヨーロッパ|西欧列強のひとつとして世界中に植民地を拡大し、超大国として栄えイギリス帝国|大英帝国と呼んだ。第一次世界大戦以降の勢力均衡中心の時代にあっては名誉あるバランサーを標榜し、自国と自国の交易上、友好関係にある国々、地域、植民地の経済と安全保障の安定化に向けた世界戦略を展開したことで、19世紀には世界の過半を影響下におき、パクス・ブリタニカ（イギリスによる平和）と呼ばれる比較的平和な時代をもたらしたが、19世紀終盤にはアメリカに経済規模で抜かれ、第二次世界大戦を機に植民地の大部分を失い衰退し、現在に至る。
+67,68c67,68
+< ﻿==国名==
+< ﻿正式名称は、{{lang|en|the United Kingdom of Great Britain and Northern Ireland}} である。{{lang|en|United Kingdom}}、{{lang|en|UK}} とも略される。
+---
+> ﻿国名
+> ﻿正式名称は、lang|en|the United Kingdom of Great Britain and Northern Ireland である。lang|en|United Kingdom、lang|en|UK とも略される。
+70c70
+< ﻿日本語では、グレートブリテン及び北アイルランド連合王国あるいはグレートブリテン及び北部アイルランド連合王国と表記される<ref>なお、ここでいう「連合王国」とは、英語では単数形であることから分かるように、連合により形成された1つの王国という意味であり、「連合した諸王国」という意味ではない（すなわち、連合王国それ自体が1つの王国である）。「連合王国」という名称は、イングランド王国とスコットランド王国の合併の際に「グレートブリテン王国」として、またグレートブリテン王国とアイルランド王国の合併の際に「グレートブリテン及びアイルランド連合王国」として採用された。なお、合併に関する歴史については、イギリスの歴史を参照。</ref>。通称は、イギリスや英国（えいこく）が一般的だが、その語源はいずれもイングランド単体との関係が深い言葉であり、「UK」や「グレートブリテン」を表すには、相応しくないとも考えられる<ref>日本の外務省は一時期「連合王国」という名称を使っていた（「明治三十二年発行の英貨公債を償還する等のため発行する外貨公債に関する特別措置法」、「領事官の徴収する手数料の額を定める省令」本文など）が一般には定着せず、代わって「英国」を主に使うようになってきている（「在外公館の名称及び位置並びに在外公館に勤務する外務公務員の給与に関する法律|名称位置給与法」、「外務省組織令」、「国家公務員等の旅費支給規程」）。また駐日英国大使館は「英国」を用いているほか、ブリティッシュ・カウンシルなど英国政府関連の団体は主に「英国」を用いる。省庁によっては、現在も連合王国と呼ぶ事もある。例えば、自衛隊などは「連合王国」と呼んでいる[http://www.mod.go.jp/msdf/formal/info/news/200808/082001.html 2008/08/20 連合王国（イギリス）海軍艦艇の訪日に伴うホストシップの派出等について]{{リンク切れ|date=2010年3月}}</ref>（本節にて詳述）。英と略されることもある。他に連合王国やブリテンとも呼ばれる。漢字による当て字は、英吉利と表記される。
+---
+> ﻿日本語では、グレートブリテン及び北アイルランド連合王国あるいはグレートブリテン及び北部アイルランド連合王国と表記される<ref>なお、ここでいう「連合王国」とは、英語では単数形であることから分かるように、連合により形成された1つの王国という意味であり、「連合した諸王国」という意味ではない（すなわち、連合王国それ自体が1つの王国である）。「連合王国」という名称は、イングランド王国とスコットランド王国の合併の際に「グレートブリテン王国」として、またグレートブリテン王国とアイルランド王国の合併の際に「グレートブリテン及びアイルランド連合王国」として採用された。なお、合併に関する歴史については、イギリスの歴史を参照。</ref>。通称は、イギリスや英国（えいこく）が一般的だが、その語源はいずれもイングランド単体との関係が深い言葉であり、「UK」や「グレートブリテン」を表すには、相応しくないとも考えられる<ref>日本の外務省は一時期「連合王国」という名称を使っていた（「明治三十二年発行の英貨公債を償還する等のため発行する外貨公債に関する特別措置法」、「領事官の徴収する手数料の額を定める省令」本文など）が一般には定着せず、代わって「英国」を主に使うようになってきている（「在外公館の名称及び位置並びに在外公館に勤務する外務公務員の給与に関する法律|名称位置給与法」、「外務省組織令」、「国家公務員等の旅費支給規程」）。また駐日英国大使館は「英国」を用いているほか、ブリティッシュ・カウンシルなど英国政府関連の団体は主に「英国」を用いる。省庁によっては、現在も連合王国と呼ぶ事もある。例えば、自衛隊などは「連合王国」と呼んでいるhttp://www.mod.go.jp/msdf/formal/info/news/200808/082001.html 2008/08/20 連合王国（イギリス）海軍艦艇の訪日に伴うホストシップの派出等についてリンク切れ|date=2010年3月</ref>（本節にて詳述）。英と略されることもある。他に連合王国やブリテンとも呼ばれる。漢字による当て字は、英吉利と表記される。
+72c72
+< ﻿「イギリス」の語源については、ポルトガル語の {{lang|pt|Inglez}} に由来すると言われる<ref>三省堂 『大辞林』 第二版より「イギリス」の項。</ref>。江戸時代には「エゲレス」とも呼ばれていた（前掲ポルトガル語 {{lang|pt|Inglez}}、またはオランダ語 {{lang|nl|Engelsch}} が訛ったもの<ref>小学館 『デジタル大辞泉』より「エゲレス」の項。</ref>）。当て字である「英吉利」という表記は、もともと先行する中国語に由来する<ref>現代の中国語でも「{{lang|zh-CN|英吉利海峡}}」などと言った語に残っている。</ref>。徳川幕府との開国等に関する交渉の際には、猊利太尼亜（ぶりたにあ）や諳尼利亜（あんぐりあ）と呼称されていた。「グレートブリテン」はイングランドのほかに、スコットランド及びウェールズを含み、「連合王国」はこれにさらに北アイルランドが加わる。しかし、「連合王国」は、少なくとも国内法上は、王室属領（マン島及びチャンネル諸島）や海外領土は含まない。そのため、海外領土や王室属領を含む場合や、海外領土等に本国を表記する場合はイギリスと表記することも多い。
+---
+> ﻿「イギリス」の語源については、ポルトガル語の lang|pt|Inglez に由来すると言われる<ref>三省堂 『大辞林』 第二版より「イギリス」の項。</ref>。江戸時代には「エゲレス」とも呼ばれていた（前掲ポルトガル語 lang|pt|Inglez、またはオランダ語 lang|nl|Engelsch が訛ったもの<ref>小学館 『デジタル大辞泉』より「エゲレス」の項。</ref>）。当て字である「英吉利」という表記は、もともと先行する中国語に由来する<ref>現代の中国語でも「lang|zh-CN|英吉利海峡」などと言った語に残っている。</ref>。徳川幕府との開国等に関する交渉の際には、猊利太尼亜（ぶりたにあ）や諳尼利亜（あんぐりあ）と呼称されていた。「グレートブリテン」はイングランドのほかに、スコットランド及びウェールズを含み、「連合王国」はこれにさらに北アイルランドが加わる。しかし、「連合王国」は、少なくとも国内法上は、王室属領（マン島及びチャンネル諸島）や海外領土は含まない。そのため、海外領土や王室属領を含む場合や、海外領土等に本国を表記する場合はイギリスと表記することも多い。
+74c74
+< ﻿英語話者が「UK」を指して「{{lang|en|England}}」と称することが（特に口語で）あるが、「ポリティカル・コレクトネス|政治的に正しくない」として公式な場では控えられる傾向にある。連合王国全体を指して「グレートブリテン」と呼ぶことも、その本来の意に含まれない北アイルランドのユニオニストから批判されることがあるが、連合王国政府は連合王国全体を指す語として「グレートブリテン」を使うことがある（例えば、自動車に使われている欧州連合のナンバープレート|EUのナンバープレートの国際識別記号 (自動車)|加盟国略号や国際標準化機構|ISOのISO 3166-1|国コードでは「GB」が用いられる）。またスコットランド人やウェールズ人には、民族的アイデンティティーを無視した単語として「{{lang|en|British}}」と呼ばれることを嫌う人もいる（もちろん彼らを「{{lang|en|English}}」と呼ぶのはタブーである）。国全体、個々の地域、またそこに暮らす人々をどう呼ぶべきかという問題は、個々人の政治的価値観や歴史観を含むため複雑であり、個々人やマスコミによって様々な見解がある。英国放送協会|BBCがスコットランド人やウェールズ人を「{{lang|en|British}}」という単語で表さない原則を表明した直後、「タイムズ」は社説でBBCの決定を批判し、その後も「{{lang|en|British}}」という単語をスコットランド人やウェールズ人に対して用いている。
+---
+> ﻿英語話者が「UK」を指して「lang|en|England」と称することが（特に口語で）あるが、「ポリティカル・コレクトネス|政治的に正しくない」として公式な場では控えられる傾向にある。連合王国全体を指して「グレートブリテン」と呼ぶことも、その本来の意に含まれない北アイルランドのユニオニストから批判されることがあるが、連合王国政府は連合王国全体を指す語として「グレートブリテン」を使うことがある（例えば、自動車に使われている欧州連合のナンバープレート|EUのナンバープレートの国際識別記号 (自動車)|加盟国略号や国際標準化機構|ISOのISO 3166-1|国コードでは「GB」が用いられる）。またスコットランド人やウェールズ人には、民族的アイデンティティーを無視した単語として「lang|en|British」と呼ばれることを嫌う人もいる（もちろん彼らを「lang|en|English」と呼ぶのはタブーである）。国全体、個々の地域、またそこに暮らす人々をどう呼ぶべきかという問題は、個々人の政治的価値観や歴史観を含むため複雑であり、個々人やマスコミによって様々な見解がある。英国放送協会|BBCがスコットランド人やウェールズ人を「lang|en|British」という単語で表さない原則を表明した直後、「タイムズ」は社説でBBCの決定を批判し、その後も「lang|en|British」という単語をスコットランド人やウェールズ人に対して用いている。
+76,79c76,79
+< ﻿==歴史==
+< ﻿File:Battle of Waterloo 1815.PNG|thumb|left|[[ワーテルローの戦いでの勝利によりナポレオン戦争は終止符が打たれ、パクス・ブリタニカの時代が到来した。]]
+< ﻿File:The British Empire.png|thumb|250px|[[イギリス帝国統治下の経験を有する国・地域。現在のイギリスの海外領土は赤い下線が引いてある。]]
+< ﻿{{main|イギリスの歴史}}
+---
+> ﻿歴史
+> ﻿File:Battle of Waterloo 1815.PNG|thumb|left|[ワーテルローの戦いでの勝利によりナポレオン戦争は終止符が打たれ、パクス・ブリタニカの時代が到来した。]
+> ﻿File:The British Empire.png|thumb|250px|[イギリス帝国統治下の経験を有する国・地域。現在のイギリスの海外領土は赤い下線が引いてある。]
+> ﻿main|イギリスの歴史
+82c82
+< ﻿1282年にウェールズ地方にもイングランドの州制度がしかれ、1536年には正式に併合した（{{仮リンク|ウェールズ法諸法|en|Laws in Wales Acts 1535?1542}}）。1603年にイングランドとスコットランドが同君連合を形成、1707年、スコットランド合併法（連合法 (1707年)|1707年連合法）により、イングランドとスコットランドは合併しグレートブリテン王国となった。さらに1801年には、連合法 (1800年)|アイルランド合併法（1800年連合法）によりグレートブリテン王国はアイルランド王国と連合し、グレートブリテン及びアイルランド連合王国となった。ウィンザー朝のジョージ5世 (イギリス王)|ジョージ5世の1922年に英愛条約が発効され、北部6州（北アイルランド;アルスター9州の中の6州）を除く26州がアイルランド自由国（現アイルランド|アイルランド共和国）として独立した。1927年に現在の名称へと改名した。スコットランドが独立すべきかどうかを問う住民投票が2014年9月に実施されたが独立は否決された<ref>{{cite web|url=http://www.cnn.co.jp/world/35023094.html|title=スコットランド独立の是非を問う住民投票実施へ　英国|author=<code>CNN.co.jp</code>|accessdate=2012-10-16}}</ref>。
+---
+> ﻿1282年にウェールズ地方にもイングランドの州制度がしかれ、1536年には正式に併合した（仮リンク|ウェールズ法諸法|en|Laws in Wales Acts 1535?1542）。1603年にイングランドとスコットランドが同君連合を形成、1707年、スコットランド合併法（連合法 (1707年)|1707年連合法）により、イングランドとスコットランドは合併しグレートブリテン王国となった。さらに1801年には、連合法 (1800年)|アイルランド合併法（1800年連合法）によりグレートブリテン王国はアイルランド王国と連合し、グレートブリテン及びアイルランド連合王国となった。ウィンザー朝のジョージ5世 (イギリス王)|ジョージ5世の1922年に英愛条約が発効され、北部6州（北アイルランド;アルスター9州の中の6州）を除く26州がアイルランド自由国（現アイルランド|アイルランド共和国）として独立した。1927年に現在の名称へと改名した。スコットランドが独立すべきかどうかを問う住民投票が2014年9月に実施されたが独立は否決された<ref>cite web|url=http://www.cnn.co.jp/world/35023094.html|title=スコットランド独立の是非を問う住民投票実施へ　英国|author=<code>CNN.co.jp</code>|accessdate=2012-10-16</ref>。
+90c90
+< ﻿==地理==
+---
+> ﻿地理
+92c92
+< ﻿File:BenNevis2005.jpg|thumb|right|[[ブリテン諸島最高峰のベン・ネビス山]]
+---
+> ﻿File:BenNevis2005.jpg|thumb|right|[ブリテン諸島最高峰のベン・ネビス山]
+95c95
+< ﻿イングランドの大部分は<!--rolling lowland terrain-->岩の多い低地からなり、西から東へと順に並べると、北西の山がちな地域（湖水地方のカンブリア山脈）、北部（ペニンネスの湿地帯、ピーク・ディストリクトの石灰岩丘陵地帯。パーベック島、リンカンシャーの石灰岩質の丘陵地帯）から南イングランドの泥炭質のノース・ダウンズ、サウス・ダウンズ、チルターンにいたる。イングランドを流れる主な河川は、テムズ川、セヴァーン川、トレント川、ウーズ川である。主な都市はロンドン、バーミンガム、ヨーク (イングランド)|ヨーク、ニューカッスル・アポン・タインなど。イングランド南部のドーヴァーには、英仏海峡トンネルがあり、対岸のフランスと連絡する。イングランドには標高 1000m を超える地点はない。
+---
+> ﻿イングランドの大部分はrolling lowland terrain岩の多い低地からなり、西から東へと順に並べると、北西の山がちな地域（湖水地方のカンブリア山脈）、北部（ペニンネスの湿地帯、ピーク・ディストリクトの石灰岩丘陵地帯。パーベック島、リンカンシャーの石灰岩質の丘陵地帯）から南イングランドの泥炭質のノース・ダウンズ、サウス・ダウンズ、チルターンにいたる。イングランドを流れる主な河川は、テムズ川、セヴァーン川、トレント川、ウーズ川である。主な都市はロンドン、バーミンガム、ヨーク (イングランド)|ヨーク、ニューカッスル・アポン・タインなど。イングランド南部のドーヴァーには、英仏海峡トンネルがあり、対岸のフランスと連絡する。イングランドには標高 1000m を超える地点はない。
+105c105
+< ﻿イギリスの大半はなだらかな丘陵地及び平原で占められており、国土のおよそ90%が可住地となっている。そのため、国土面積自体は日本のおよそ3分の2（本州と四国を併せた程度）であるが、可住地面積は逆に日本の倍近くに及んでいる。イギリスは森林も少なく、日本が国土の3分の2が森林で覆われているのに対し、イギリスの森林率は11%ほどである<ref>{{Cite web|url=http://yoshio-kusano.sakura.ne.jp/nakayamakouen6newpage3.html |title=中山徹奈良女子大教授の記念講演6 どうやって森を再生するかイギリスの例 |publisher=日本共産党宝塚市議 草野義雄 |accessdate=2014-5-10}}</ref>。
+---
+> ﻿イギリスの大半はなだらかな丘陵地及び平原で占められており、国土のおよそ90%が可住地となっている。そのため、国土面積自体は日本のおよそ3分の2（本州と四国を併せた程度）であるが、可住地面積は逆に日本の倍近くに及んでいる。イギリスは森林も少なく、日本が国土の3分の2が森林で覆われているのに対し、イギリスの森林率は11%ほどである<ref>Cite web|url=http://yoshio-kusano.sakura.ne.jp/nakayamakouen6newpage3.html |title=中山徹奈良女子大教授の記念講演6 どうやって森を再生するかイギリスの例 |publisher=日本共産党宝塚市議 草野義雄 |accessdate=2014-5-10</ref>。
+107c107
+< ﻿===気候===
+---
+> ﻿気候
+116,119c116,119
+< ﻿==政治==
+< ﻿File:Elizabeth II greets NASA GSFC employees, May 8, 2007 edit.jpg|thumb|left|150px|英国本国及び[[英連邦王国イギリスの君主|女王、エリザベス2世]]
+< ﻿File:Palace of Westminster, London - Feb 2007.jpg|thumb|[[イギリスの議会|英国議会が議事堂として使用するウェストミンスター宮殿]]
+< ﻿{{main|イギリスの政治|イギリスの憲法|英国法|英米法}}
+---
+> ﻿政治
+> ﻿File:Elizabeth II greets NASA GSFC employees, May 8, 2007 edit.jpg|thumb|left|150px|英国本国及び[英連邦王国イギリスの君主|女王、エリザベス2世]
+> ﻿File:Palace of Westminster, London - Feb 2007.jpg|thumb|[イギリスの議会|英国議会が議事堂として使用するウェストミンスター宮殿]
+> ﻿main|イギリスの政治|イギリスの憲法|英国法|英米法
+128,131c128,131
+< ﻿==外交と軍事==
+< ﻿File:David Cameron and Barack Obama at the G20 Summit in Toronto.jpg|thumb|left|[[デーヴィッド・キャメロンイギリスの首相|英国首相及びバラク・オバマアメリカ合衆国大統領|米国大統領 (G20トロント・サミット)]]
+< ﻿{{Main|イギリスの国際関係|イギリス軍}}
+< ﻿イギリスは国際連合安全保障理事会|安全保障理事会の常任理事国であり、主要国首脳会議|G8、北大西洋条約機構|NATO、欧州連合|EUの加盟国である。そして、アメリカ合衆国と歴史的に「特別な関係」を持つ。アメリカ合衆国とヨーロッパ以外にも、イギリスと密接な同盟国は、イギリス連邦|連邦国と他の英語圏の国家を含む。イギリスの世界的な存在と影響は、各国との相補関係と軍事力を通して拡大されている。それは、世界中で約80の軍事基地の設置と軍の配備を維持していることにも現れている<ref>{{cite web|url=http://www.globalpowereurope.eu/|title=Global Power Europe|publisher=<code>Globalpowereurope.eu</code>|language=英語|accessdate=2008-10-17}}</ref>。2011年の軍事支出は627億ドルと一定水準を保っている。
+---
+> ﻿外交と軍事
+> ﻿File:David Cameron and Barack Obama at the G20 Summit in Toronto.jpg|thumb|left|[デーヴィッド・キャメロンイギリスの首相|英国首相及びバラク・オバマアメリカ合衆国大統領|米国大統領 (G20トロント・サミット)]
+> ﻿Main|イギリスの国際関係|イギリス軍
+> ﻿イギリスは国際連合安全保障理事会|安全保障理事会の常任理事国であり、主要国首脳会議|G8、北大西洋条約機構|NATO、欧州連合|EUの加盟国である。そして、アメリカ合衆国と歴史的に「特別な関係」を持つ。アメリカ合衆国とヨーロッパ以外にも、イギリスと密接な同盟国は、イギリス連邦|連邦国と他の英語圏の国家を含む。イギリスの世界的な存在と影響は、各国との相補関係と軍事力を通して拡大されている。それは、世界中で約80の軍事基地の設置と軍の配備を維持していることにも現れている<ref>cite web|url=http://www.globalpowereurope.eu/|title=Global Power Europe|publisher=<code>Globalpowereurope.eu</code>|language=英語|accessdate=2008-10-17</ref>。2011年の軍事支出は627億ドルと一定水準を保っている。
+133,134c133,134
+< ﻿File:Soldiers Trooping the Colour, 16th June 2007.jpg|thumb|軍旗分列行進式における[[近衛兵 (イギリス)|近衛兵]]
+< ﻿イギリスの軍隊は「イギリス軍」<ref>{{lang-en-short|British Armed Forces}}</ref>または「陛下の軍」<ref>{{lang-en-short|His/Her Majesty's Armed Forces}}</ref>として知られている。しかし、公式の場では「アームド・フォーシーズ・オブ・ザ・クラウン」<!-- 慣例がないため未翻訳 --><ref>{{lang-en-short|Armed Forces of the Crown}}</ref>と呼ばれる<ref>{{Cite web|url=http://www.raf.mod.uk/legalservices/p3chp29.htm|title=Armed Forces Act 1976, Arrangement of Sections|publisher=<code>raf.mod.uk</code>|language=英語|accessdate=2009-02-22 }}</ref>（クラウンは冠、王冠の意）。全軍の最高司令官はイギリスの君主であるが、首相が事実上の指揮権を有している。軍の日常的な管理は国防省 (イギリス)|国防省に設置されている国防委員会によって行われている。
+---
+> ﻿File:Soldiers Trooping the Colour, 16th June 2007.jpg|thumb|軍旗分列行進式における[近衛兵 (イギリス)|近衛兵]
+> ﻿イギリスの軍隊は「イギリス軍」<ref>lang-en-short|British Armed Forces</ref>または「陛下の軍」<ref>lang-en-short|His/Her Majesty's Armed Forces</ref>として知られている。しかし、公式の場では「アームド・フォーシーズ・オブ・ザ・クラウン」 慣例がないため未翻訳 <ref>lang-en-short|Armed Forces of the Crown</ref>と呼ばれる<ref>Cite web|url=http://www.raf.mod.uk/legalservices/p3chp29.htm|title=Armed Forces Act 1976, Arrangement of Sections|publisher=<code>raf.mod.uk</code>|language=英語|accessdate=2009-02-22 </ref>（クラウンは冠、王冠の意）。全軍の最高司令官はイギリスの君主であるが、首相が事実上の指揮権を有している。軍の日常的な管理は国防省 (イギリス)|国防省に設置されている国防委員会によって行われている。
+136c136
+< ﻿イギリスの軍隊は各国の軍隊に比べて広範囲にわたる活動を行い、世界的な戦力投射能力を有する軍事大国の1つに数えられ、国防省によると軍事費は世界で2位を誇る。現在、軍事費はGDPの2.5%を占めている<ref>{{Cite web|url=http://www.mod.uk/DefenceInternet/AboutDefence/Organisation/KeyFactsAboutDefence/DefenceSpending.htm|title=Defence Spending|publisher={{lang|en|Ministry of Defence}}|language=英語|accessdate=2008-01-06 }}</ref>。イギリス軍はイギリス本国と海外の領土を防衛しつつ、世界的なイギリスの将来的国益を保護し、国際的な平和維持活動の支援を任ぜられている。
+---
+> ﻿イギリスの軍隊は各国の軍隊に比べて広範囲にわたる活動を行い、世界的な戦力投射能力を有する軍事大国の1つに数えられ、国防省によると軍事費は世界で2位を誇る。現在、軍事費はGDPの2.5%を占めている<ref>Cite web|url=http://www.mod.uk/DefenceInternet/AboutDefence/Organisation/KeyFactsAboutDefence/DefenceSpending.htm|title=Defence Spending|publisher={{lang|en|Ministry of Defence|language=英語|accessdate=2008-01-06 }}</ref>。イギリス軍はイギリス本国と海外の領土を防衛しつつ、世界的なイギリスの将来的国益を保護し、国際的な平和維持活動の支援を任ぜられている。
+138c138
+< ﻿2005年の時点でイギリス陸軍|陸軍は102,440名、イギリス空軍|空軍は49,210名、イギリス海軍|海軍（イギリス海兵隊|海兵隊を含む）は36,320名の兵員から構成されており、イギリス軍の190,000名が現役軍人として80か国以上の国に展開、配置されている<ref>{{lang-en-short|Ministry of Defence}}「{{PDFlink|[http://www.mod.uk/NR/rdonlyres/6FBA7459-7407-4B85-AA47-7063F1F22461/0/modara_0405_s1_resources.pdf Annual Reports and Accounts 2004-05]|1.60&nbsp;MB}}」2006-05-14 閲覧。{{En icon}}</ref>。
+---
+> ﻿2005年の時点でイギリス陸軍|陸軍は102,440名、イギリス空軍|空軍は49,210名、イギリス海軍|海軍（イギリス海兵隊|海兵隊を含む）は36,320名の兵員から構成されており、イギリス軍の190,000名が現役軍人として80か国以上の国に展開、配置されている<ref>lang-en-short|Ministry of Defence「PDFlink|http://www.mod.uk/NR/rdonlyres/6FBA7459-7407-4B85-AA47-7063F1F22461/0/modara_0405_s1_resources.pdf Annual Reports and Accounts 2004-05|1.60&nbsp;MB」2006-05-14 閲覧。En icon</ref>。
+141c141
+< ﻿{{See also|イギリスの大量破壊兵器}}
+---
+> ﻿See also|イギリスの大量破壊兵器
+143c143
+< ﻿イギリス軍の幅広い活動能力にも関わらず、最近の国事的な国防政策でも協同作戦時に最も過酷な任務を引き受けることを想定している<ref>{{lang|en|Office for National Statistics}}、{{lang|en|UK 2005:The Official Yearbook of the United Kingdom of Great Britain and Northern Ireland}}、p. 89 {{En icon}}</ref>。イギリス軍が単独で戦った最後の戦争はフォークランド紛争で、全面的な戦闘が丸々3か月続いた。現在はボスニア紛争、コソボ紛争、アフガニスタン紛争 (2001年-)|アフガニスタン侵攻、イラク戦争など、アメリカ軍やNATO諸国との連合作戦が慣例となっている。イギリス海軍の軽歩兵部隊であるイギリス海兵隊は、上陸戦|水陸両用作戦の任務が基本であるが、イギリス政府の外交政策を支援するため、軽歩兵部隊の特性を生かして海外へ即座に展開できる機動力を持つ。
+---
+> ﻿イギリス軍の幅広い活動能力にも関わらず、最近の国事的な国防政策でも協同作戦時に最も過酷な任務を引き受けることを想定している<ref>lang|en|Office for National Statistics、lang|en|UK 2005:The Official Yearbook of the United Kingdom of Great Britain and Northern Ireland、p. 89 En icon</ref>。イギリス軍が単独で戦った最後の戦争はフォークランド紛争で、全面的な戦闘が丸々3か月続いた。現在はボスニア紛争、コソボ紛争、アフガニスタン紛争 (2001年-)|アフガニスタン侵攻、イラク戦争など、アメリカ軍やNATO諸国との連合作戦が慣例となっている。イギリス海軍の軽歩兵部隊であるイギリス海兵隊は、上陸戦|水陸両用作戦の任務が基本であるが、イギリス政府の外交政策を支援するため、軽歩兵部隊の特性を生かして海外へ即座に展開できる機動力を持つ。
+145c145
+< ﻿イギリスの在イラン大使館2011年11月29日にイランのデモ隊が乱入した事件について、ヘイグ外相は在イラン大使館の即時閉鎖と職員全員の国外退去を命じたと11月30日の下院で答弁した。同外相はイランを批判し、キャメロン首相もイランを非難した。この事件に対して欧州各国（ドイツやフランス、イタリア）も大使の召還を決定・検討している。<ref>[http://www.asahi.com/international/update/1201/TKY201111300900.html?ref=reca 英、イラン大使館を閉鎖　全職員、国外に退避] 朝日新聞 2011年12月1日</ref><ref>[http://mainichi.jp/select/world/europe/news/20111130k0000e030066000c.html イラン：英首相が報復措置を示唆　英国大使館襲撃で] 毎日新聞　2011年11月30日</ref>
+---
+> ﻿イギリスの在イラン大使館2011年11月29日にイランのデモ隊が乱入した事件について、ヘイグ外相は在イラン大使館の即時閉鎖と職員全員の国外退去を命じたと11月30日の下院で答弁した。同外相はイランを批判し、キャメロン首相もイランを非難した。この事件に対して欧州各国（ドイツやフランス、イタリア）も大使の召還を決定・検討している。<ref>http://www.asahi.com/international/update/1201/TKY201111300900.html?ref=reca 英、イラン大使館を閉鎖　全職員、国外に退避 朝日新聞 2011年12月1日</ref><ref>http://mainichi.jp/select/world/europe/news/20111130k0000e030066000c.html イラン：英首相が報復措置を示唆　英国大使館襲撃で 毎日新聞　2011年11月30日</ref>
+147,149c147,149
+< ﻿==地方行政区分==
+< ﻿File:Scotland Parliament Holyrood.jpg|thumb|[[スコットランド議会議事堂]]
+< ﻿{{main|イギリスの地方行政区画}}
+---
+> ﻿地方行政区分
+> ﻿File:Scotland Parliament Holyrood.jpg|thumb|[スコットランド議会議事堂]
+> ﻿main|イギリスの地方行政区画
+152,155c152,155
+< ﻿*イングランド
+< ﻿*スコットランド
+< ﻿*ウェールズ
+< ﻿*北アイルランド
+---
+> ﻿イングランド
+> ﻿スコットランド
+> ﻿ウェールズ
+> ﻿北アイルランド
+158,159c158,159
+< ﻿===主要都市===
+< ﻿{{Main|イギリスの都市の一覧}}
+---
+> ﻿主要都市
+> ﻿Main|イギリスの都市の一覧
+209c209
+< ﻿==科学技術==
+---
+> ﻿科学技術
+212,215c212,215
+< ﻿==経済==
+< ﻿File:London.bankofengland.arp.jpg|thumb|left|[[イングランド銀行はイギリスの中央銀行である。]]
+< ﻿{{main|イギリスの経済}}
+< ﻿国際通貨基金|IMFによると、2013年のイギリスの国内総生産|GDPは2兆5357億ドルであり、世界第6位、ヨーロッパ|欧州では、ドイツ、フランスに次ぐ第3位である<ref name="GDP1">[http://www.imf.org/external/pubs/ft/weo/2014/01/weodata/weorept.aspx?pr.x=71&pr.y=15&sy=2013&ey=2019&scsm=1&ssd=1&sort=country&ds=.&br=1&c=112&s=NGDPD%2CNGDPDPC&grp=0&a= IMF:World Economic Outlook Database]</ref>。同年の一人当たりのGDPは39,567ドルである<ref name="GDP1"/>。
+---
+> ﻿経済
+> ﻿File:London.bankofengland.arp.jpg|thumb|left|[イングランド銀行はイギリスの中央銀行である。]
+> ﻿main|イギリスの経済
+> ﻿国際通貨基金|IMFによると、2013年のイギリスの国内総生産|GDPは2兆5357億ドルであり、世界第6位、ヨーロッパ|欧州では、ドイツ、フランスに次ぐ第3位である<ref name="GDP1">http://www.imf.org/external/pubs/ft/weo/2014/01/weodata/weorept.aspx?pr.x=71&pr.y=15&sy=2013&ey=2019&scsm=1&ssd=1&sort=country&ds=.&br=1&c=112&s=NGDPD%2CNGDPDPC&grp=0&a= IMF:World Economic Outlook Database</ref>。同年の一人当たりのGDPは39,567ドルである<ref name="GDP1"/>。
+217,218c217,218
+< ﻿File:City of London skyline from London City Hall - Oct 2008.jpg|thumb|250px|[[ロンドンはビジネス、文化、政治などを総合評価した世界都市#世界都市指数|世界都市ランキングで、ニューヨークに次ぐ世界第2位の都市と評価された<ref>[http://www.atkearney.com/documents/10192/4461492/Global+Cities+Present+and+Future-GCI+2014.pdf/3628fd7d-70be-41bf-99d6-4c8eaf984cd5 2014 Global Cities Index and Emerging Cities Outlook] (2014年4月公表)</ref>。]]
+< ﻿首都ロンドンはニューヨークや香港などと共に世界トップレベルの金融センターである<ref>[http://www.sh.xinhuanet.com/shstatics/images2013/IFCD2013_En.pdf Xinhua-Dow Jones International Financial Centers Development Index （2013)] (2013年9月公表)</ref>。ロンドンのシティ・オブ・ロンドン|シティには、世界屈指の証券取引所であるロンドン証券取引所がある。イギリスの外国為替の1日平均取引金額は2兆7260億ドルであり、アメリカの2倍以上の規模を誇り世界一である<ref>[https://www.bis.org/publ/rpfx13fx.pdf 国際決済銀行の統計] 2013年9月12日閲覧。</ref>。富裕層|富裕層人口も非常に多く、金融資産100万ドル以上を持つ富裕世帯は約41万世帯と推計されており、アメリカ、日本、中華人民共和国|中国に次ぐ第4位である<ref name="Rich">[http://www.bcg.com/expertise_impact/publications/PublicationDetails.aspx?id=tcm:12-107081 BCG Global Wealth 2012]</ref>。また、金融資産1億ドル以上を持つ超富裕世帯は1,125世帯と推計されており、アメリカに次ぐ第2位である<ref name="Rich"/>。
+---
+> ﻿File:City of London skyline from London City Hall - Oct 2008.jpg|thumb|250px|[ロンドンはビジネス、文化、政治などを総合評価した世界都市#世界都市指数|世界都市ランキングで、ニューヨークに次ぐ世界第2位の都市と評価された<ref>[http://www.atkearney.com/documents/10192/4461492/Global+Cities+Present+and+Future-GCI+2014.pdf/3628fd7d-70be-41bf-99d6-4c8eaf984cd5 2014 Global Cities Index and Emerging Cities Outlook (2014年4月公表)</ref>。]]
+> ﻿首都ロンドンはニューヨークや香港などと共に世界トップレベルの金融センターである<ref>http://www.sh.xinhuanet.com/shstatics/images2013/IFCD2013_En.pdf Xinhua-Dow Jones International Financial Centers Development Index （2013) (2013年9月公表)</ref>。ロンドンのシティ・オブ・ロンドン|シティには、世界屈指の証券取引所であるロンドン証券取引所がある。イギリスの外国為替の1日平均取引金額は2兆7260億ドルであり、アメリカの2倍以上の規模を誇り世界一である<ref>https://www.bis.org/publ/rpfx13fx.pdf 国際決済銀行の統計 2013年9月12日閲覧。</ref>。富裕層|富裕層人口も非常に多く、金融資産100万ドル以上を持つ富裕世帯は約41万世帯と推計されており、アメリカ、日本、中華人民共和国|中国に次ぐ第4位である<ref name="Rich">http://www.bcg.com/expertise_impact/publications/PublicationDetails.aspx?id=tcm:12-107081 BCG Global Wealth 2012</ref>。また、金融資産1億ドル以上を持つ超富裕世帯は1,125世帯と推計されており、アメリカに次ぐ第2位である<ref name="Rich"/>。
+230,231c230,231
+< ﻿2007年11月7日、FTSE100の先物に大量にプログラミングの不具合で過剰な注文があり、乱高下。これに便乗して投機筋が利鞘を稼ごうと市場に参加したため、株価が不安定になった。--><!-- 11月7日の事件がその後、イギリス経済に与えた影響が確定した時点でコメントアウトをはずしてください -->
+< ﻿さらに、2008年にはアメリカ合衆国のサブプライムローン問題の影響をまともに受けて金融不安が増大した上に、資源、食料の高騰の直撃を受け、アリスター・ダーリング財務大臣 (イギリス)|財務大臣が「過去60年間で恐らく最悪の下降局面に直面している」と非常に悲観的な見通しを明らかにしている<ref>{{Cite web|date=2008-08-30|url=http://sankei.jp.msn.com/economy/business/080830/biz0808301850007-n1.htm|work=産経新聞|title=「英経済、過去60年間で最悪の下降局面」英財務相|accessdate=2008-08-30}}</ref>。2012年2月時点で失業率は8%を超えるまでに悪化した状態にある。
+---
+> ﻿2007年11月7日、FTSE100の先物に大量にプログラミングの不具合で過剰な注文があり、乱高下。これに便乗して投機筋が利鞘を稼ごうと市場に参加したため、株価が不安定になった。--> 11月7日の事件がその後、イギリス経済に与えた影響が確定した時点でコメントアウトをはずしてください
+> ﻿さらに、2008年にはアメリカ合衆国のサブプライムローン問題の影響をまともに受けて金融不安が増大した上に、資源、食料の高騰の直撃を受け、アリスター・ダーリング財務大臣 (イギリス)|財務大臣が「過去60年間で恐らく最悪の下降局面に直面している」と非常に悲観的な見通しを明らかにしている<ref>Cite web|date=2008-08-30|url=http://sankei.jp.msn.com/economy/business/080830/biz0808301850007-n1.htm|work=産経新聞|title=「英経済、過去60年間で最悪の下降局面」英財務相|accessdate=2008-08-30</ref>。2012年2月時点で失業率は8%を超えるまでに悪化した状態にある。
+233,234c233,234
+< ﻿===鉱業===
+< ﻿File:Oil platform in the North SeaPros.jpg|thumb|[[北海油田]]
+---
+> ﻿鉱業
+> ﻿File:Oil platform in the North SeaPros.jpg|thumb|[北海油田]
+237c237
+< ﻿===農業===
+---
+> ﻿農業
+240c240
+< ﻿===貿易===
+---
+> ﻿貿易
+249c249
+< ﻿===通貨===
+---
+> ﻿通貨
+252,253c252,253
+< ﻿===企業===
+< ﻿{{main|イギリスの企業一覧}}
+---
+> ﻿企業
+> ﻿main|イギリスの企業一覧
+255,256c255,256
+< ﻿==交通==
+< ﻿===道路===
+---
+> ﻿交通
+> ﻿道路
+259,261c259,261
+< ﻿===鉄道===
+< ﻿{{main|イギリスの鉄道}}
+< ﻿File:Eurostar at St Pancras Jan 2008.jpg|thumb|国際列車[[ユーロスターの発着駅であるセント・パンクラス駅]]
+---
+> ﻿鉄道
+> ﻿main|イギリスの鉄道
+> ﻿File:Eurostar at St Pancras Jan 2008.jpg|thumb|国際列車[ユーロスターの発着駅であるセント・パンクラス駅]
+268c268
+< ﻿===海運===
+---
+> ﻿海運
+271,272c271,272
+< ﻿===航空===
+< ﻿File:Heathrow T5.jpg|thumb|[[w:London Heathrow Terminal 5|London Heathrow Terminal 5. ロンドン・ヒースロー空港はw:World's busiest airports by international passenger traffic|国際線利用客数では世界随一である。]]
+---
+> ﻿航空
+> ﻿File:Heathrow T5.jpg|thumb|[w:London Heathrow Terminal 5|London Heathrow Terminal 5. ロンドン・ヒースロー空港はw:World's busiest airports by international passenger traffic|国際線利用客数では世界随一である。]
+280c280
+< ﻿==通信==
+---
+> ﻿通信
+284,288c284,288
+< ﻿*ボーダフォン イギリス
+< ﻿*Orange フランス T-Mobile（イギリス）と資本合併
+< ﻿*T-Mobile ドイツ Orange（イギリス）と資本合併
+< ﻿*O2 スペイン Telefonica傘下
+< ﻿*3（Three） 香港
+---
+> ﻿ボーダフォン イギリス
+> ﻿Orange フランス T-Mobile（イギリス）と資本合併
+> ﻿T-Mobile ドイツ Orange（イギリス）と資本合併
+> ﻿O2 スペイン Telefonica傘下
+> ﻿3（Three） 香港
+290,291c290,291
+< ﻿==国民==
+< ﻿{{main|イギリス人|:en:British people|:en:Demography of the United Kingdom}}
+---
+> ﻿国民
+> ﻿main|イギリス人|:en:British people|:en:Demography of the United Kingdom
+295,305c295,305
+< ﻿*GBR:British Citizen - 英国市民
+< ﻿*: 本国人
+< ﻿*GBN:British National (Overseas) - 英国国民（海外）※「BN(O)」とも書く。
+< ﻿*: 英国国籍で、香港の永住権|住民権も持つ人。
+< ﻿*GBD:British Dependent (Overseas) Territories Citizen - イギリス属領市民
+< ﻿*: 植民地出身者
+< ﻿*GBO:British Overseas Citizen - イギリス海外市民
+< ﻿*: ギリシャ西岸の諸島・インド・パキスタン・マレーシアなどの旧植民地出身者のうち特殊な歴史的経緯のある者
+< ﻿*GBP:British Protected Person - イギリス保護民
+< ﻿*GBS:British Subject - イギリス臣民
+< ﻿*: アイルランド（北部以外）・ジブラルタルなどGBDやGBOとは別の経緯のある地域の住民で一定要件に該当する者
+---
+> ﻿GBR:British Citizen - 英国市民
+> ﻿ 本国人
+> ﻿GBN:British National (Overseas) - 英国国民（海外）※「BN(O)」とも書く。
+> ﻿ 英国国籍で、香港の永住権|住民権も持つ人。
+> ﻿GBD:British Dependent (Overseas) Territories Citizen - イギリス属領市民
+> ﻿ 植民地出身者
+> ﻿GBO:British Overseas Citizen - イギリス海外市民
+> ﻿ ギリシャ西岸の諸島・インド・パキスタン・マレーシアなどの旧植民地出身者のうち特殊な歴史的経緯のある者
+> ﻿GBP:British Protected Person - イギリス保護民
+> ﻿GBS:British Subject - イギリス臣民
+> ﻿ アイルランド（北部以外）・ジブラルタルなどGBDやGBOとは別の経緯のある地域の住民で一定要件に該当する者
+309,311c309,311
+< ﻿===言語===
+< ﻿{{main|:en:Languages of the United Kingdom}}
+< ﻿File:Anglospeak.svg|thumb|250px|世界の[[英語圏地域。濃い青色は英語が公用語または事実上の公用語になっている地域。薄い青色は英語が公用語であるが主要な言語ではない地域。]]
+---
+> ﻿言語
+> ﻿main|:en:Languages of the United Kingdom
+> ﻿File:Anglospeak.svg|thumb|250px|世界の[英語圏地域。濃い青色は英語が公用語または事実上の公用語になっている地域。薄い青色は英語が公用語であるが主要な言語ではない地域。]
+316,317c316,317
+< ﻿===宗教===
+< ﻿{{See also|イギリスの宗教}}
+---
+> ﻿宗教
+> ﻿See also|イギリスの宗教
+324c324
+< ﻿=== 婚姻 ===
+---
+> ﻿ 婚姻
+327,328c327,328
+< ﻿===教育===
+< ﻿{{main|イギリスの教育}}
+---
+> ﻿教育
+> ﻿main|イギリスの教育
+331,339c331,339
+< ﻿==文化==
+< ﻿{{Main|:en:Culture of the United Kingdom}}
+< ﻿===食文化===
+< ﻿{{Main|イギリス料理}}
+< ﻿{{節stub}}
+< 
+< ﻿===文学===
+< ﻿ファイル:CHANDOS3.jpg|thumb|150px|[[ウィリアム・シェイクスピア]]
+< ﻿{{main|イギリス文学}}
+---
+> ﻿文化
+> ﻿Main|:en:Culture of the United Kingdom
+> ﻿食文化
+> ﻿Main|イギリス料理
+> ﻿節stub
+> 
+> ﻿文学
+> ﻿ファイル:CHANDOS3.jpg|thumb|150px|[ウィリアム・シェイクスピア]
+> ﻿main|イギリス文学
+346,354c346,354
+< ﻿=== 哲学 ===
+< ﻿{{main|{{仮リンク|イギリスの哲学|en|British philosophy}}}}
+< ﻿{{節stub}}
+< ﻿* イギリス経験論
+< ﻿* イギリス理想主義
+< 
+< ﻿===音楽===
+< ﻿{{main|イギリスの音楽}}
+< ﻿<!-- 音楽の欄はジャンルも影響力もバラバラの人名が並んでいるため、出典に基づいた整理が必要 -->
+---
+> ﻿ 哲学
+> ﻿main|{{仮リンク|イギリスの哲学|en|British philosophy}}
+> ﻿節stub
+> ﻿ イギリス経験論
+> ﻿ イギリス理想主義
+> 
+> ﻿音楽
+> ﻿main|イギリスの音楽
+> ﻿ 音楽の欄はジャンルも影響力もバラバラの人名が並んでいるため、出典に基づいた整理が必要
+357,359c357,359
+< ﻿====イギリスのポピュラー音楽====
+< ﻿ファイル:The Fabs.JPG|thumb|200px|[[ビートルズ]]
+< ﻿{{main|ロック (音楽)}}
+---
+> ﻿イギリスのポピュラー音楽
+> ﻿ファイル:The Fabs.JPG|thumb|200px|[ビートルズ]
+> ﻿main|ロック (音楽)
+366,368c366,368
+< ﻿===映画===
+< ﻿{{Main|イギリスの映画}}
+< ﻿{{節stub}}
+---
+> ﻿映画
+> ﻿Main|イギリスの映画
+> ﻿節stub
+370c370
+< ﻿===コメディ===
+---
+> ﻿コメディ
+372,376c372,376
+< ﻿*ローワン・アトキンソン
+< ﻿*チャールズ・チャップリン
+< ﻿*ピーター・セラーズ
+< ﻿*モンティ・パイソン
+< ﻿*リック・ウェイクマン　（但し、本職はミュージシャン）
+---
+> ﻿ローワン・アトキンソン
+> ﻿チャールズ・チャップリン
+> ﻿ピーター・セラーズ
+> ﻿モンティ・パイソン
+> ﻿リック・ウェイクマン　（但し、本職はミュージシャン）
+378c378
+< ﻿===国花===
+---
+> ﻿国花
+380,383c380,383
+< ﻿*イングランドはバラ
+< ﻿*ウェールズはラッパスイセン（スイセンの1種）。リーキもより歴史のあるシンボルだが、リーキは花ではない。
+< ﻿*北アイルランドはシャムロック
+< ﻿*スコットランドはアザミ
+---
+> ﻿イングランドはバラ
+> ﻿ウェールズはラッパスイセン（スイセンの1種）。リーキもより歴史のあるシンボルだが、リーキは花ではない。
+> ﻿北アイルランドはシャムロック
+> ﻿スコットランドはアザミ
+385c385
+< ﻿===世界遺産===
+---
+> ﻿世界遺産
+405,406c405,406
+< ﻿===祝祭日===
+< ﻿祝祭日は、イングランド、ウェールズ、スコットランド、北アイルランドの各政府により異なる場合がある。銀行をはじめ多くの企業が休みとなることから、国民の祝祭日をバンク・ホリデー({{interlang|en|Bank holiday}})（銀行休業日）と呼ぶ。
+---
+> ﻿祝祭日
+> ﻿祝祭日は、イングランド、ウェールズ、スコットランド、北アイルランドの各政府により異なる場合がある。銀行をはじめ多くの企業が休みとなることから、国民の祝祭日をバンク・ホリデー(interlang|en|Bank holiday)（銀行休業日）と呼ぶ。
+410c410
+< ﻿|1月1日||元日||{{lang|en|New Year's Day}}||移動祝日
+---
+> ﻿|1月1日||元日||lang|en|New Year's Day||移動祝日
+414c414
+< ﻿|3月17日||聖パトリックの祝日|聖パトリックの日||{{lang|en|St. Patrick's Day}}||北アイルランドのみ
+---
+> ﻿|3月17日||聖パトリックの祝日|聖パトリックの日||lang|en|St. Patrick's Day||北アイルランドのみ
+416c416
+< ﻿|3月 - 4月||聖金曜日||{{lang|en|Good Friday}}||移動祝日
+---
+> ﻿|3月 - 4月||聖金曜日||lang|en|Good Friday||移動祝日
+418c418
+< ﻿|3月 - 4月||復活祭月曜日||{{lang|en|Easter Monday}}||移動祝日
+---
+> ﻿|3月 - 4月||復活祭月曜日||lang|en|Easter Monday||移動祝日
+420c420
+< ﻿|5月第1月曜日||五月祭||{{lang|en|Early May Bank Holiday}}||移動祝日
+---
+> ﻿|5月第1月曜日||五月祭||lang|en|Early May Bank Holiday||移動祝日
+422c422
+< ﻿|5月最終月曜日||五月祭終り||{{lang|en|Spring Bank Holiday}}||移動祝日
+---
+> ﻿|5月最終月曜日||五月祭終り||lang|en|Spring Bank Holiday||移動祝日
+424c424
+< ﻿|7月12日||ボイン川の戦い記念日||{{lang|en|Battle of the Boyne (Orangemen's Day)}}||北アイルランドのみ
+---
+> ﻿|7月12日||ボイン川の戦い記念日||lang|en|Battle of the Boyne (Orangemen's Day)||北アイルランドのみ
+426c426
+< ﻿|8月第1月曜日||夏季銀行休業日||{{lang|en|Summer Bank Holiday}}||移動祝日、スコットランドのみ
+---
+> ﻿|8月第1月曜日||夏季銀行休業日||lang|en|Summer Bank Holiday||移動祝日、スコットランドのみ
+428c428
+< ﻿|8月最終月曜日||夏季銀行休業日||{{lang|en|Summer Bank Holiday}}||移動祝日、スコットランドを除く
+---
+> ﻿|8月最終月曜日||夏季銀行休業日||lang|en|Summer Bank Holiday||移動祝日、スコットランドを除く
+430c430
+< ﻿|12月25日||クリスマス||{{lang|en|Christmas Day}}||
+---
+> ﻿|12月25日||クリスマス||lang|en|Christmas Day||
+432c432
+< ﻿|12月26日||ボクシングデー||{{lang|en|Boxing Day}}||
+---
+> ﻿|12月26日||ボクシングデー||lang|en|Boxing Day||
+434,435c434,435
+< ﻿*聖金曜日を除く移動祝日は原則的に月曜日に設定されている。
+< ﻿*ボクシングデー後の2日も銀行休業日であったが2005年を最後に廃止されている。
+---
+> ﻿聖金曜日を除く移動祝日は原則的に月曜日に設定されている。
+> ﻿ボクシングデー後の2日も銀行休業日であったが2005年を最後に廃止されている。
+437,438c437,438
+< ﻿==スポーツ==
+< ﻿ファイル:Wembley Stadium, illuminated.jpg|thumb|220px|[[ウェンブリー・スタジアム]]
+---
+> ﻿スポーツ
+> ﻿ファイル:Wembley Stadium, illuminated.jpg|thumb|220px|[ウェンブリー・スタジアム]
+443c443
+< ﻿===サッカー===
+---
+> ﻿サッカー
+447,456c447,456
+< ﻿*2007-2008シーズンにおけるイングランドサッカー入場者数<ref>2008年12月10日付けの日本経済新聞</ref>
+< ﻿**プレミアリーグ|プレミアシップ　1370万8875人
+< ﻿**フットボールリーグ・チャンピオンシップ|チャンピオンシップ　939万7036人
+< ﻿**フットボールリーグ1　441万2023人
+< ﻿**フットボールリーグ2　239万6278人
+< ﻿**FAカップ　201万1320人
+< ﻿**フットボールリーグカップ|リーグカップ　133万2841人
+< ﻿**UEFAチャンピオンズ・リーグ|CL　122万0127人
+< ﻿**UEFAカップ　46万2002人
+< ﻿**総動員数　3494万人
+---
+> ﻿2007-2008シーズンにおけるイングランドサッカー入場者数<ref>2008年12月10日付けの日本経済新聞</ref>
+> ﻿プレミアリーグ|プレミアシップ　1370万8875人
+> ﻿フットボールリーグ・チャンピオンシップ|チャンピオンシップ　939万7036人
+> ﻿フットボールリーグ1　441万2023人
+> ﻿フットボールリーグ2　239万6278人
+> ﻿FAカップ　201万1320人
+> ﻿フットボールリーグカップ|リーグカップ　133万2841人
+> ﻿UEFAチャンピオンズ・リーグ|CL　122万0127人
+> ﻿UEFAカップ　46万2002人
+> ﻿総動員数　3494万人
+458,459c458,459
+< ﻿===競馬===
+< ﻿{{main|イギリスの競馬}}
+---
+> ﻿競馬
+> ﻿main|イギリスの競馬
+464c464
+< ﻿===モータースポーツ===
+---
+> ﻿モータースポーツ
+467,519c467,519
+< ﻿==脚注==
+< ﻿{{脚注ヘルプ}}
+< ﻿{{Reflist}}
+< 
+< ﻿==関連項目==
+< ﻿* イギリス関係記事の一覧
+< ﻿* イギリスの銃規制
+< ﻿* ジョン・ブル
+< ﻿* ブリタニア (女神)
+< 
+< ﻿==外部リンク==
+< ﻿{{Wiktionary}}
+< ﻿{{Commons&cat|United Kingdom|United Kingdom}}
+< ﻿;本国政府
+< ﻿*[http://www.royal.gov.uk/ 英国王室（The British Monarchy）] {{en icon}}
+< ﻿**{{Facebook|TheBritishMonarchy|The British Monarchy}} {{en icon}}
+< ﻿**{{Twitter|BritishMonarchy|BritishMonarchy}} {{en icon}}
+< ﻿**{{Google+|+britishmonarchy|name=The British Monarchy}} {{en icon}}
+< ﻿**{{flickr|photos/britishmonarchy/|The British Monarchy}} {{en icon}}
+< ﻿**{{YouTube channel|TheRoyalChannel|The British Monarchy}} {{en icon}}
+< ﻿*[http://www.direct.gov.uk/ 英国政府（GOV.UK）] {{en icon}}
+< ﻿*[https://www.gov.uk/government/organisations/prime-ministers-office-10-downing-street 英国首相府（Prime Minister's Office, 10 Downing Street）] {{en icon}}
+< ﻿**{{Facebook|10downingstreet|10 Downing Street}} {{en icon}}
+< ﻿**{{Twitter|@Number10gov|UK Prime Minister}} {{en icon}}
+< ﻿**{{Twitter|@Number10press|No.10 Press Office}} {{en icon}}
+< ﻿**{{flickr|photos/number10gov|Number 10}} {{en icon}}
+< ﻿**{{Pinterest|number10gov|UK Prime Minister}} {{en icon}}
+< ﻿**{{YouTube channel|Number10gov|Number10gov|films and features from Downing Street and the British Prime Minister}} {{en icon}}
+< ﻿**{{YouTube channel|DowningSt|Downing Street|archive footage from Downing Street and past British Prime Ministers}} {{en icon}}
+< ﻿*[https://www.gov.uk/government/world/japan.ja UK and Japan (UK and the world - GOV.UK)] {{ja icon}}{{en icon}}
+< ﻿**[https://www.gov.uk/government/world/organisations/british-embassy-tokyo.ja 駐日英国大使館（GOV.UK）] {{ja icon}}{{en icon}}
+< ﻿***{{Facebook|ukinjapan|British Embassy Tokyo}} {{ja icon}}{{en icon}}※使用言語は個々の投稿による
+< ﻿***{{Twitter|UKinJapan|BritishEmbassy英国大使館}} {{ja icon}}{{en icon}}※使用言語は個々の投稿による
+< ﻿***{{flickr|photos/uk-in-japan|UK in Japan- FCO}} {{en icon}}
+< ﻿***{{YouTube channel|UKinJapan|UKinJapan|British Embassy in Japan}} {{en icon}}
+< ﻿*[https://www.gov.uk/government/organisations/uk-visas-and-immigration UK Visas and Immigration (GOV.UK)] {{en icon}}
+< ﻿**[http://www.vfsglobal.co.uk/japan/Japanese/ 英国ビザ申請センター] - VFS Global Japan (上記「UK Visas and Immigration」日本地区取扱代行サイト) {{ja icon}}{{en icon}}
+< ﻿;日本政府内
+< ﻿*[http://www.mofa.go.jp/mofaj/area/uk/ 日本外務省 - 英国] {{ja icon}}
+< ﻿*[http://www.uk.emb-japan.go.jp/jp/index.html 在英国日本国大使館] {{ja icon}}
+< ﻿;観光
+< ﻿*[http://www.visitbritain.com/ja/JP/ 英国政府観光庁（日本語版サイト）] {{ja icon}}
+< ﻿** {{Facebook|LoveGreatBritain|Love GREAT Britain}} {{en icon}}
+< ﻿;その他
+< ﻿*[http://www.jetro.go.jp/world/europe/uk/ JETRO - 英国]
+< 
+< ﻿{{イギリス関連の項目}}
+< ﻿{{ヨーロッパ}}
+< ﻿{{EU}}
+< ﻿{{国連安全保障理事会理事国}}
+< ﻿{{G8}}
+< ﻿{{OECD}}
+< ﻿{{イギリス連邦}}
+---
+> ﻿脚注
+> ﻿脚注ヘルプ
+> ﻿Reflist
+> 
+> ﻿関連項目
+> ﻿ イギリス関係記事の一覧
+> ﻿ イギリスの銃規制
+> ﻿ ジョン・ブル
+> ﻿ ブリタニア (女神)
+> 
+> ﻿外部リンク
+> ﻿Wiktionary
+> ﻿Commons&cat|United Kingdom|United Kingdom
+> ﻿本国政府
+> ﻿http://www.royal.gov.uk/ 英国王室（The British Monarchy） en icon
+> ﻿Facebook|TheBritishMonarchy|The British Monarchy en icon
+> ﻿Twitter|BritishMonarchy|BritishMonarchy en icon
+> ﻿Google+|+britishmonarchy|name=The British Monarchy en icon
+> ﻿flickr|photos/britishmonarchy/|The British Monarchy en icon
+> ﻿YouTube channel|TheRoyalChannel|The British Monarchy en icon
+> ﻿http://www.direct.gov.uk/ 英国政府（GOV.UK） en icon
+> ﻿https://www.gov.uk/government/organisations/prime-ministers-office-10-downing-street 英国首相府（Prime Minister's Office, 10 Downing Street） en icon
+> ﻿Facebook|10downingstreet|10 Downing Street en icon
+> ﻿Twitter|@Number10gov|UK Prime Minister en icon
+> ﻿Twitter|@Number10press|No.10 Press Office en icon
+> ﻿flickr|photos/number10gov|Number 10 en icon
+> ﻿Pinterest|number10gov|UK Prime Minister en icon
+> ﻿YouTube channel|Number10gov|Number10gov|films and features from Downing Street and the British Prime Minister en icon
+> ﻿YouTube channel|DowningSt|Downing Street|archive footage from Downing Street and past British Prime Ministers en icon
+> ﻿https://www.gov.uk/government/world/japan.ja UK and Japan (UK and the world - GOV.UK) ja iconen icon
+> ﻿https://www.gov.uk/government/world/organisations/british-embassy-tokyo.ja 駐日英国大使館（GOV.UK） ja iconen icon
+> ﻿Facebook|ukinjapan|British Embassy Tokyo ja iconen icon※使用言語は個々の投稿による
+> ﻿Twitter|UKinJapan|BritishEmbassy英国大使館 ja iconen icon※使用言語は個々の投稿による
+> ﻿flickr|photos/uk-in-japan|UK in Japan- FCO en icon
+> ﻿YouTube channel|UKinJapan|UKinJapan|British Embassy in Japan en icon
+> ﻿https://www.gov.uk/government/organisations/uk-visas-and-immigration UK Visas and Immigration (GOV.UK) en icon
+> ﻿http://www.vfsglobal.co.uk/japan/Japanese/ 英国ビザ申請センター - VFS Global Japan (上記「UK Visas and Immigration」日本地区取扱代行サイト) ja iconen icon
+> ﻿日本政府内
+> ﻿http://www.mofa.go.jp/mofaj/area/uk/ 日本外務省 - 英国 ja icon
+> ﻿http://www.uk.emb-japan.go.jp/jp/index.html 在英国日本国大使館 ja icon
+> ﻿観光
+> ﻿http://www.visitbritain.com/ja/JP/ 英国政府観光庁（日本語版サイト） ja icon
+> ﻿ Facebook|LoveGreatBritain|Love GREAT Britain en icon
+> ﻿その他
+> ﻿http://www.jetro.go.jp/world/europe/uk/ JETRO - 英国
+> 
+> ﻿イギリス関連の項目
+> ﻿ヨーロッパ
+> ﻿EU
+> ﻿国連安全保障理事会理事国
+> ﻿G8
+> ﻿OECD
+> ﻿イギリス連邦
+521c521
+< ﻿{{デフォルトソート:いきりす}}
+---
+> ﻿デフォルトソート:いきりす

@@ -1,0 +1,21 @@
+#文字をURL形式にエンコード
+#UTF8Nに変換しておかないとうまくエンコードできない（見つけるのに3時間ほど試行錯誤しました）
+*URLEncode(Sを)
+	SをSJIS_UTF8N変換
+	それをURLエンコード
+	戻る
+
+テンプレートとは配列
+"UK.txt"を毎行読んで反復
+	行はそれをUTF8_SJIS変換
+	行を「\|(.+) = (.+)」で正規表現マッチ
+	もし、それ <> 「」ならば
+		テンプレート@抽出文字列[0]は抽出文字列[1]
+文字は「ファイル:」& テンプレート@「国旗画像」
+ファイルは文字をURLEncode
+urlは「http://ja.wikipedia.org/w/api.php?format=json&action=query&prop=imageinfo&titles={ファイル}&iiprop=url」
+
+ページはurlからHTTPデータ取得
+jsonはページをJSONデコード
+picURLはjson＠「query」＠「pages」＠「-1」＠「imageinfo」＠「url」
+picURLを表示
